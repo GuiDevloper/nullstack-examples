@@ -1,0 +1,5 @@
+examples/template
+**/.production
+**/.development
+**/*lock*
+**/node_modules
