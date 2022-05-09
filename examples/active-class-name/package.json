@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "nullstack": "~0.15.0"
+    "nullstack": "0.15.3"
   },
   "scripts": {
     "start": "npx nullstack start --port=3000",
