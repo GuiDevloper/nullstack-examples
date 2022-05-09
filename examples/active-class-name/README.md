@@ -6,7 +6,7 @@ ReactRouter has a convenience property on the `Link` element to allow an author 
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new) or [Heroku](https://heroku.com).
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name)
 
 ## How to use
