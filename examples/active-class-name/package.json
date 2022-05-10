@@ -6,6 +6,6 @@
   "scripts": {
     "start": "npx nullstack start --port=3000",
     "build": "npx nullstack build --mode=ssr",
-    "vercel-build": "npx nulla new-ci vercel && npm run build"
+    "vercel-build": "npm run build"
   }
 }
