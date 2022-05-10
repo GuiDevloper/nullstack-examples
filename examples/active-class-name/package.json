@@ -1,11 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "nullstack": "0.15.5"
+    "nullstack": "github:GuiDevloper/nullstack#fixed-swc-version"
   },
   "scripts": {
     "start": "npx nullstack start --port=3000",
     "build": "npx nullstack build --mode=ssr",
-    "vercel-build": "npm run build"
+    "vercel-build": "npx nulla new-ci vercel && npm run build"
   }
 }
