@@ -1,12 +1,12 @@
 # activeClassName example
 
-Nullstack Context's Router object bring info about the current route. This example compares the `router.path` with a link's `href` to dinamically set a active class on it.
+Nullstack [Context](https://nullstack.app/context)'s [Router](https://nullstack.app/routes-and-params#router) object bring info about the current route. This example compares the `router.path` with a link's `href` to dinamically set a active class on it.
 
 ## Deploy your own
 
 Deploy it now with [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/active-class/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/master/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/master/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
 
 ## How to use
 
