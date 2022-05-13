@@ -1,7 +1,7 @@
 {
   "private": true,
   "devDependencies": {
-    "nullstack": "github:GuiDevloper/nullstack#fixed-swc-version"
+    "nullstack": "~0.15.0"
   },
   "scripts": {
     "start": "npx nullstack start --port=3000",

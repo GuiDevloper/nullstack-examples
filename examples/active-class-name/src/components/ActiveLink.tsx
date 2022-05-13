@@ -1,9 +1,8 @@
-import { NullstackPartials, NullstackClientContext } from 'nullstack';
+import { NullstackClientContext } from 'nullstack';
 
 interface ActiveLinkProps extends NullstackClientContext {
   href?: string,
-  class?: string,
-  children?: NullstackPartials.ReactNode
+  class?: string
 }
 
 function ActiveLink(context: ActiveLinkProps) {
