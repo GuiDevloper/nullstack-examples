@@ -1,14 +1,14 @@
-import { NullstackClientContext } from 'nullstack';
+import { NullstackClientContext } from 'nullstack'
 
-interface ActiveLinkProps extends NullstackClientContext {
-  href?: string,
+type ActiveLinkProps = Partial<NullstackClientContext> & {
+  href: string
   class?: string
 }
 
 function ActiveLink(context: ActiveLinkProps) {
-  const { href, children, router } = context;
-  const activeClass = router.path === href ? ' active' : '';
-  const classes = `${context.class}${activeClass}`;
+  const { href, children, router } = context
+  const activeClass = router.path === href ? ' active' : ''
+  const classes = `${context.class}${activeClass}`
   return (
     <a href={href} class={classes}>
       {children}
@@ -16,4 +16,4 @@ function ActiveLink(context: ActiveLinkProps) {
   )
 }
 
-export default ActiveLink;
+export default ActiveLink

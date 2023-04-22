@@ -6,7 +6,7 @@ Nullstack [Context](https://nullstack.app/context)'s [Router](https://nullstack.
 
 Deploy it now with [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/master/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/master/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
 
 ## How to use
 
@@ -16,4 +16,4 @@ Execute [`nulla create`](https://github.com/GuiDevloper/nulla) with [npm](https:
 npx nulla create --example active-class-name active-class-name-app
 ```
 
-Then deploy it with [Vercel](https://github.com/GuiDevloper/nulla/blob/master/docs/en-US/deploy-vercel.md), [Heroku](https://github.com/GuiDevloper/nulla/blob/master/docs/en-US/deploy-heroku.md) or [Netlify](https://github.com/GuiDevloper/nulla/blob/master/docs/en-US/deploy-netlify.md).
+Then deploy it with [Vercel](https://github.com/GuiDevloper/nulla/blob/main/docs/en-US/deploy-vercel.md), [Heroku](https://github.com/GuiDevloper/nulla/blob/main/docs/en-US/deploy-heroku.md) or [Netlify](https://github.com/GuiDevloper/nulla/blob/main/docs/en-US/deploy-netlify.md).

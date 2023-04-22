@@ -1,11 +1,11 @@
 {
   "private": true,
   "devDependencies": {
-    "nullstack": "~0.15.0"
+    "nullstack": "~0.17.5"
   },
   "scripts": {
-    "start": "npx nullstack start --port=3000",
-    "build": "npx nullstack build --mode=ssr",
+    "start": "npx nullstack start",
+    "build": "npx nullstack build",
     "vercel-build": "npm run build"
   }
 }
