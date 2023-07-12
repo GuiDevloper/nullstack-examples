@@ -1,19 +1,23 @@
-import { NullstackClientContext } from 'nullstack'
+import { NullstackClientContext, NullstackFunctionalComponent } from 'nullstack'
 
-type ActiveLinkProps = Partial<NullstackClientContext> & {
+type ActiveLinkProps = JSX.AllElements['a'] & {
   href: string
-  class?: string
 }
 
-function ActiveLink(context: ActiveLinkProps) {
-  const { href, children, router } = context
+function ActiveLink({
+  href,
+  children,
+  router,
+  class: currentClasses,
+  ...otherAttributes
+}: NullstackClientContext<ActiveLinkProps>) {
   const activeClass = router.path === href ? ' active' : ''
-  const classes = `${context.class}${activeClass}`
+  const classes = `${currentClasses}${activeClass}`
   return (
-    <a href={href} class={classes}>
+    <a href={href} class={classes} {...otherAttributes}>
       {children}
     </a>
   )
 }
 
-export default ActiveLink
+export default ActiveLink as NullstackFunctionalComponent<ActiveLinkProps>

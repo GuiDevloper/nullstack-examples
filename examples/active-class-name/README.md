@@ -4,9 +4,10 @@ Nullstack [Context](https://nullstack.app/context)'s [Router](https://nullstack.
 
 ## Deploy your own
 
-Deploy it now with [Vercel](https://vercel.com):
+Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/active-class-name&project-name=active-class-name&repo-name=active-class-name&demo-title=Nullstack+activeClassName&demo-description=Nullstack+example+of+active+class+name&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/active-class-name&demo-image=https://nullstack.app/image-1200x630.png)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/active-class-name?title=Nullstack+ActiveClassName)
 
 ## How to use
 
