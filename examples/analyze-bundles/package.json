@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nullstack": "0.20.0",
+    "webpack-bundle-analyzer": "^4.9.0"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build",
+    "analyze": "cross-env ANALYZE=true npm run build",
+    "vercel-build": "npm run build && npx nullstack-adapt-vercel"
+  },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "npm i nullstack-adapt-babel@0.0.20 -D && nullstack-adapt-babel && npm start",
+    "compileTrigger": "save"
+  }
+}
