@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "devDependencies": {
+    "nullstack": "0.20.0"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build",
+    "vercel-build": "npm run build && npx nullstack-adapt-vercel"
+  },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "npm i nullstack-adapt-babel@0.0.20 -D && nullstack-adapt-babel && npm start",
+    "compileTrigger": "save"
+  }
+}
