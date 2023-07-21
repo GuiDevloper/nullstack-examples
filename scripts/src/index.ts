@@ -1,9 +1,9 @@
 import generateNames, { namesFilename } from './generate-names'
+import generateREADME from './generate-readme'
 
 async function main() {
   await generateNames()
-  const names = require(namesFilename)
-  console.log(names)
+  generateREADME(require(namesFilename))
 }
 
 main()
