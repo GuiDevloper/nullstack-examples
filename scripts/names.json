@@ -4,6 +4,7 @@
   "basic-css",
   "environment-variables",
   "head-elements",
+  "with-custom-babel-config",
   "with-dotenv",
   "with-mdx",
   "with-tailwind",
