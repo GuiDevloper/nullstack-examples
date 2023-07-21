@@ -8,8 +8,8 @@ Based on the [fccoelho7/nullstack-mdx](https://github.com/fccoelho7/nullstack-md
 
 Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/with-mdx&project-name=with-mdx&repo-name=with-mdx&demo-title=Nullstack+withMDX&demo-description=Nullstack+example+with+mdx&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/with-mdx&demo-image=https://nullstack.app/image-1200x630.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/with-mdx?title=Nullstack+WithMDX)
+[![Deploy with Vercel](https://vercel.com/button)](https://nullstack-new.vercel.app/with-mdx?vercel)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://nullstack-new.vercel.app/with-mdx)
 
 ## How to use
 

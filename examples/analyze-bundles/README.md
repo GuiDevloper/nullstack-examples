@@ -18,8 +18,8 @@ It will build the app, generate JSON stats files for both server and client bund
 
 Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/analyze-bundles&project-name=analyze-bundles&repo-name=analyze-bundles&demo-title=Nullstack+analyzeBundles&demo-description=Nullstack+example+of+analyze+bundles&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/analyze-bundles&demo-image=https://nullstack.app/image-1200x630.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/analyze-bundles?title=Nullstack+AnalyzeBundles)
+[![Deploy with Vercel](https://vercel.com/button)](https://nullstack-new.vercel.app/analyze-bundles?vercel)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://nullstack-new.vercel.app/analyze-bundles)
 
 ## How to use
 

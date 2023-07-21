@@ -8,8 +8,8 @@ For every page you can inject elements into the page head. This way you can add 
 
 Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/head-elements&project-name=head-elements&repo-name=head-elements&demo-title=Nullstack+headElements&demo-description=Nullstack+example+of+head+elements&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/head-elements&demo-image=https://nullstack.app/image-1200x630.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/head-elements?title=Nullstack+HeadElements)
+[![Deploy with Vercel](https://vercel.com/button)](https://nullstack-new.vercel.app/head-elements?vercel)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://nullstack-new.vercel.app/head-elements)
 
 ## How to use
 

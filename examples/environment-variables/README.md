@@ -23,8 +23,8 @@ Then take a look at it's contents and comments describing what every key become 
 
 Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/environment-variables&project-name=environment-variables&repo-name=environment-variables&demo-title=Nullstack+EnvironmentVariables&demo-description=Nullstack+example+of+environment+variables&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/environment-variables&demo-image=https://nullstack.app/image-1200x630.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/environment-variables?title=Nullstack+EnvironmentVariables)
+[![Deploy with Vercel](https://vercel.com/button)](https://nullstack-new.vercel.app/environment-variables?vercel)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://nullstack-new.vercel.app/environment-variables)
 
 ## How to use
 

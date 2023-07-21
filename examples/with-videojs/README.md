@@ -6,8 +6,8 @@ This example shows how to use Nullstack along with [Video.js](https://videojs.co
 
 Deploy it now with [Vercel](https://vercel.com) or preview on [StackBlitz](https://stackblitz.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/with-videojs&project-name=with-videojs&repo-name=with-videojs&demo-title=Nullstack+withVideojs&demo-description=Nullstack+example+with+videojs&demo-url=https://github.com/GuiDevloper/nullstack-examples/tree/main/examples/with-videojs&demo-image=https://nullstack.app/image-1200x630.png)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/GuiDevloper/nullstack-examples/tree/main/examples/with-videojs?title=Nullstack+WithVideojs)
+[![Deploy with Vercel](https://vercel.com/button)](https://nullstack-new.vercel.app/with-videojs?vercel)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://nullstack-new.vercel.app/with-videojs)
 
 ## How to use
 
