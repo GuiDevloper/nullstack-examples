@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@babel/plugin-proposal-do-expressions": "^7.22.5",
+    "@babel/plugin-proposal-throw-expressions": "^7.22.5",
+    "nullstack": "0.20.0",
+    "nullstack-adapt-babel": "0.0.23"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build",
+    "vercel-build": "npm run build && npx nullstack-adapt-vercel"
+  },
+  "stackblitz": {
+    "startCommand": "nullstack-adapt-babel && npm start",
+    "compileTrigger": "save"
+  }
+}
