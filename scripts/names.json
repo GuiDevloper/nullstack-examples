@@ -1,0 +1,11 @@
+[
+  "active-class-name",
+  "analyze-bundles",
+  "basic-css",
+  "environment-variables",
+  "head-elements",
+  "with-dotenv",
+  "with-mdx",
+  "with-tailwind",
+  "with-videojs"
+]
