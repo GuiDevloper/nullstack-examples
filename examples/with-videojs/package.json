@@ -15,7 +15,7 @@
   },
   "stackblitz": {
     "installDependencies": false,
-    "startCommand": "npm i nullstack-adapt-babel@0.0.20 -D && nullstack-adapt-babel && npm start",
+    "startCommand": "npm i nullstack-adapt-babel@0.0.23 -D && nullstack-adapt-babel && npm start",
     "compileTrigger": "save"
   }
 }
