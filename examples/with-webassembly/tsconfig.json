@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "noImplicitAny": false,
+    "jsx": "preserve",
+    "lib": ["ES2020", "DOM"],
+    "esModuleInterop": true
+  }
+}

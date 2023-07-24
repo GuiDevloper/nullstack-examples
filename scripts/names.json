@@ -8,5 +8,6 @@
   "with-dotenv",
   "with-mdx",
   "with-tailwind",
-  "with-videojs"
+  "with-videojs",
+  "with-webassembly"
 ]

@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #111827;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5vh;
+}
+
+a {
+  color: #f15d9f;
+  margin-left: .3em;
+}
+
+.multiplier {
+  margin-bottom: 2rem;
+}

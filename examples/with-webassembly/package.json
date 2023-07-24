@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.2.3",
+    "nullstack": "0.20.0"
+  },
+  "scripts": {
+    "start": "npx nullstack start",
+    "build": "npx nullstack build",
+    "build:go": "tinygo build -o ./src/go/main.wasm -target=wasi ./src/go/src/main.go && node ./src/go/update-bindings.js",
+    "build:rust": "rustc --target wasm32-unknown-unknown -O --crate-type=cdylib src/rust/src/main.rs -o src/rust/main.wasm",
+    "vercel-build": "npm run build && npx nullstack-adapt-vercel"
+  },
+  "stackblitz": {
+    "installDependencies": false,
+    "startCommand": "npm i nullstack-adapt-babel@0.0.23 -D && nullstack-adapt-babel && npm start",
+    "compileTrigger": "save"
+  }
+}
