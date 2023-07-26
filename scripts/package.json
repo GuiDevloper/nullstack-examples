@@ -1,10 +1,12 @@
 {
   "devDependencies": {
     "@types/node": "^20.2.3",
+    "rimraf": "^5.0.1",
     "ts-node-dev": "^2.0.0"
   },
   "scripts": {
-    "build": "ts-node-dev --cls --quiet src"
+    "build": "ts-node-dev --cls --quiet src",
+    "clear": "rimraf ../examples/**/node_modules ../examples/**/.development ../examples/**/.production --glob"
   },
   "prettier": {
     "singleQuote": true,
